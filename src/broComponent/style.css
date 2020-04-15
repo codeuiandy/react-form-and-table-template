@@ -1,0 +1,99 @@
+.card {
+    background-color: #fff;
+    border: none;
+    position: relative;
+    margin-bottom: 30px;
+    border-radius: 7px;
+    box-shadow: 0 2px 17px 2px rgb(222, 223, 241);
+}
+
+.card-body {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: 1.25rem;
+}
+
+
+.table-responsive {
+    display: block;
+    width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    -ms-overflow-style: -ms-autohiding-scrollbar;
+}
+
+
+.table-responsive>.table-bordered {
+    border: 0;
+}
+.table-bordered {
+    border: 1px solid #ececff;
+}
+.text-nowrap {
+    white-space: nowrap!important;
+}
+
+table {
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: grey;
+}
+
+
+.card {
+    background-color: #fff;
+    border: none;
+    position: relative;
+    margin-bottom: 30px;
+    border-radius: 7px;
+    box-shadow: 0 2px 17px 2px rgb(222, 223, 241);
+  
+}
+
+.card-header h4{
+    padding-top: 10px;
+    color: grey;
+}
+
+
+.table-bordered td, .table-bordered th {
+    border: 1px solid #ececff;
+}
+.table td, .table:not(.table-bordered) th {
+    border-top: none;
+}
+.table-bordered td, .table-bordered th {
+    border: 1px solid #dee2e6;
+}
+.table td, .table th {
+    padding: .75rem;
+    vertical-align: top;
+    border-top: 1px solid #dee2e6;
+}
+
+.card .card-body {
+    padding: 30px;
+}
+.card .card-header, .card .card-footer, .card .card-body {
+    background-color: transparent;
+}
+.card-body {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: 1.25rem;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: #f6f6f9;
+}
+
+.table-bordered td, .table-bordered th {
+    border: 1px solid #ececff;
+}
+.table td, .table:not(.table-bordered) th {
+    border-top: none;
+}
+
+
+
